@@ -5,5 +5,5 @@ matplotlib
 scipy
 reportlab
 openpyxl
-xlsxwrite
-pillow
+xlsxwriter
+Pillow
